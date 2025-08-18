@@ -22,7 +22,7 @@ names = input("Enter 5 names separated by spaces: ")
 name_list = names.lower().split()
 name_list.sort()
 for name in name_list:
-print(names)
+    print(names)
 
 # Task 5
 # name = [] 
