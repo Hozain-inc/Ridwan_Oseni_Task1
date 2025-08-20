@@ -66,7 +66,18 @@ print("Scholarship Eligible:", eligible)
  
 
 #Use case example2 - Event Access
-age = 22
-has_ticket = False
-can_enter = (age >= 18) and (has_ticket or age < 25)
-print("Access Granted:", can_enter)
+# age = 22
+# has_ticket = False
+# can_enter = (age >= 18) and (has_ticket or age < 25)
+# print("Access Granted:", can_enter)
+
+
+name = "Oseni"
+score = 40
+passed = (score >= 50)
+print("Passed:", passed)
+
+name = "Oba"
+age = 15
+teenager = (age >= 13) and (age <= 19)
+print("Teenager:", teenager)

@@ -64,11 +64,15 @@
 # print(f"items: {items}\nTotal  Price: {cart_total}")
 
 # Task4
-student = {}
-name = input("Enter your name:")
-age = input("Enter your age:")
-student.update({name:age})
-print(student)
-list = [70, 85, 90]
-student.update({"scores": list})
-print(student)
+# student = {}
+# name = input("Enter your name:")
+# age = input("Enter your age:")
+# student.update({name:age})
+# print(student)
+# list = [70, 85, 90]
+# student.update({"scores": list})
+# print(student)
+
+
+
+
