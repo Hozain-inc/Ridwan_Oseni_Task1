@@ -79,4 +79,4 @@ diff_in_num = num1 - num2
 print(diff_in_num)
 print(f"The difference between {num1} and {num2} is {diff_in_num}")
 sum_result = num1 + num2
-print(f"The sum between {num1} and {num2} is {sum_result}")
+print(f"The sum of {num1} and {num2} is {sum_result}")
