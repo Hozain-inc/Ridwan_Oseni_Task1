@@ -8,6 +8,6 @@
 #     print("Hello")
 
 # Invalid syntax-General grammar mistakes
-print "Hello"
+# print "Hello"
 
 
